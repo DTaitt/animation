@@ -76,4 +76,5 @@ function Move () {
 	blue()
 	yellow()
 	red()
+	green()
 }
